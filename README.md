@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateuszkrolik" alt="mateuszkrolik" /></a> </p>
 
-- 🔭 I’m currently enrolled in a Bachelors Degree in a **Computer Science/Software Engineering** at **University of Lower Silesia DSW, Wroclaw** and my Specialization is **Cloud Computing**
+- 🔭 I’m currently enrolled in a Bachelors Degree of **Applied Computer Science/Software Engineering** at **University of Lower Silesia DSW, Wroclaw** and my Specialization is **Cloud Computing**
 
 - 🌱 I’m currently learning **TypeScript, Kubernetes**
 
@@ -35,9 +35,8 @@
 <!-- Databases -->
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <!-- Hosting Providers -->
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
