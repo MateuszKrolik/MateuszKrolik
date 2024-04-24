@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently enrolled in a Bachelors Degree of **Applied Computer Science/Software Engineering** at **University of Lower Silesia DSW, Wroclaw** and my Specialization is **Cloud Computing**
 
-- 🌱 I’m currently learning **Java, Spring Boot, Angular, MicroServices**
+- 🌱 I’m currently learning **Java, Spring Boot, Hibernate & Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MateuszKrolik](https://github.com/MateuszKrolik)
 
