@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz Królik</h1>
 <h3 align="center">An aspiring Software Engineer from Poland, Wroclaw</h3>
 
-- 🔭 I’m currently enrolled in a Bachelors Degree of **Applied Computer Science/Software Engineering** at **University of Lower Silesia DSW, Wroclaw** and my Specialization is **Cloud Computing**
+- 🔭 I’m currently entering my 3rd year in a Bachelors Degree of **Applied Computer Science/Software Engineering** at **University of Lower Silesia DSW, Wroclaw** and my Specialization is **Cloud Computing**
 
 - 🌱 I’m currently learning **Java, Spring Boot, Hibernate & Angular**
 
