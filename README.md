@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently entering my 3rd year in a Bachelors Degree of **Applied Computer Science/Software Engineering** at **University of Lower Silesia DSW, Wroclaw** and my Specialization is **Cloud Computing**
 
-- 🌱 I’m currently learning **C#, ASP.NET Core and the Entity Framework**
+- 🌱 I’m currently learning **Angular, NgRx & Angular Material**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MateuszKrolik](https://github.com/MateuszKrolik)
 
