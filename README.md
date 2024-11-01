@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz Królik</h1>
-<h3 align="center">An aspiring Software Engineer from Poland, Wroclaw</h3>
+<h3 align="center">Software Developer @ Shiji Group from Poland, Wroclaw</h3>
 
-- 🔭 I’m currently in my 3rd year in a **Engineering Degree of Applied Computer Science** at **University of Lower Silesia, Wroclaw** and my Specialization is **Cloud Computing**
+- 🔭 I’m also currently in my 3rd year in a **Engineering Degree of Applied Computer Science** at **University of Lower Silesia, Wroclaw** and my Specialization is **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MateuszKrolik](https://github.com/MateuszKrolik)
 
